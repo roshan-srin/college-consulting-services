@@ -1032,6 +1032,21 @@ footer .connect-us ul li a:hover {
 		background-repeat: repeat;
 	}
 
+	#current-students{
+		background-image: url(../img/green.jpg);
+		background-attachment: scroll;
+		background-size: 100;
+		background-repeat: repeat;
+	}
+
+	#contact-us{
+		background-image: url(../img/gray.jpg);
+		background-attachment: scroll;
+		background-size: auto 75%;
+		background-repeat: repeat;
+	}
+
+
 	p{
 		padding: 5px 5px;
 	}
