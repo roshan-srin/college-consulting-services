@@ -1017,7 +1017,7 @@ footer .connect-us ul li a:hover {
 @media (max-width: 480px) {
 	#about {
 		background-attachment: scroll;
-		background-size: cover;
+		background-size: 50%;
 	}
 
 	#prospective-students{
@@ -1025,7 +1025,7 @@ footer .connect-us ul li a:hover {
 		background-size: 50%;
 	}
 
-	#current-student{
+	#current-students{
 		background-attachment: scroll;
 		background-size: 50%;
 	}
