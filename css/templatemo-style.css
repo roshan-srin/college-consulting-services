@@ -1039,4 +1039,8 @@ footer .connect-us ul li a:hover {
 		background-repeat: repeat;
 	}
 
+	p{
+		padding: 5px 5px;
+	}
+
 }
