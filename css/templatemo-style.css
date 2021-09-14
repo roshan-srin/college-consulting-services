@@ -1013,3 +1013,22 @@ footer .connect-us ul li a:hover {
 	}
 
 }
+
+@media (max-width: 480px) {
+	#about {
+		background-attachment: scroll;
+	}
+
+	#prospective-students{
+		background-attachment: scroll;
+	}
+
+	#current-student{
+		background-attachment: scroll;
+	}
+
+	#contact-us{
+		background-attachment: scroll;
+	}
+
+}
