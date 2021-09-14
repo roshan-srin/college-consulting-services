@@ -1017,18 +1017,22 @@ footer .connect-us ul li a:hover {
 @media (max-width: 480px) {
 	#about {
 		background-attachment: scroll;
+		background-size: cover;
 	}
 
 	#prospective-students{
 		background-attachment: scroll;
+		background-size: 50%;
 	}
 
 	#current-student{
 		background-attachment: scroll;
+		background-size: 50%;
 	}
 
 	#contact-us{
 		background-attachment: scroll;
+		background-size: 50%;
 	}
 
 }
